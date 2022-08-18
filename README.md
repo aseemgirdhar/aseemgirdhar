@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... Angular and React
 - 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... Aws
